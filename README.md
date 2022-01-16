@@ -7,3 +7,6 @@ cc tetris.c -DLINUX -o tetris
 ```
 
 Play the game.
+```
+./tetris
+```
